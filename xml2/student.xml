@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl "href="student.xsl" ?> 
+<student> 
+<s> 
+<name> RAJ KADAM </name> 
+<branch> CSE</branch> 
+<age>21</age> 
+<city> SATARA </city> 
+</s> 
+<s> 
+<name> VIGHNESH SHINDE </name> 
+<branch> CSE</branch> 
+<age> 20</age> 
+<city> KOLHAPUR </city> 
+</s> 
+<s> 
+<name> ATHARV BORKAR</name> 
+<branch> CSE</branch> 
+<age> 22</age> 
+<city> BARAMATI</city> 
+</s> 
+<s> 
+<name> JAY SHINDE</name> 
+<branch> CSE</branch> 
+<age> 22</age> 
+<city> MAHABLESHWAR</city> 
+</s> 
+<s> 
+<name> OMKAR WANI</name> 
+<branch> IT</branch> 
+<age> 22</age> 
+<city> ZIMBBOMBE</city> 
+</s> 
+</student> 
